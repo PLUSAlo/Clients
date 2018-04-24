@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseDatabaseExample</string>
+    <string name="name">Nombre</string>
+    <string name="email">Email</string>
+    <string name="phone">Teléfono</string>
+    <string name="submit">Registrar</string>
+    <string name="search">Buscar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+</resources>
